@@ -1,4 +1,4 @@
-var visibile = $('a');
+var visibile = $('i');
 visibile.click(
   function () {
     $(".hamburger-menu").show('slow');
